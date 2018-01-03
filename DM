@@ -2,3 +2,5 @@
 2018-01-03T18:03:15.000Z[rotblauer/ia] ginger testing
 2018-01-03T18:03:17.000Z[rotblauer/ia] ginger what is channel
 2018-01-03T18:03:19.000Z[rotblauer/ia] ginger ok
+2018-01-03T19:12:13.000Z[isaac/Isaac] ginger hi slackity
+2018-01-03T19:12:16.000Z[isaac/Isaac] ginger slackit push
